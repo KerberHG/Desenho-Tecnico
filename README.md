@@ -1,8 +1,8 @@
 # Desenho-Tecnico
 Repositório de estudos e práticas da disciplina de Desenho Técnico do SENAI. Inclui leituras, interpretações de desenho, projeções e exercícios práticos.
-# Desenho Técnico - SENAI
+# Desenho Técnico - 
 
-Repositório de estudos e práticas da disciplina de Desenho Técnico do SENAI. Inclui leituras, interpretações de desenho, projeções e exercícios práticos.
+Repositório de estudos e práticas da disciplina de Desenho Técnico. Inclui leituras, interpretações de desenho, projeções e exercícios práticos.
 
 ## 🗂️ Organização do Conteúdo
 
