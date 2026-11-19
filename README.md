@@ -5,7 +5,7 @@ Repositório de estudos e práticas da disciplina de Desenho Técnico. Inclui le
 ## 🗂️ Organização do Conteúdo
 
 Clique nas pastas para explorar os arquivos de cada módulo:
-*   [📂 01. Fundamentos do Desenho Técnico](01. Fundamentos do Desenho Técnico)
+*   
 *   [📂 02. Metrologia, Cotagem e Escala](./02.%20Metrologia,%20Cotagem%20e%20Escala)
 *   [📂 03. Vistas Ortogonais, Isométrica e Cavaleira](./03.%20Vistas%20Ortogonais,%20Isométrica%20e%20Cavaleira)
 *   [📂 04. Tolerâncias Dimensionais e Geométricas](./04.%20Tolerâncias%20Dimensionais%20e%20Geométricas)
